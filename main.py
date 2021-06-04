@@ -6,8 +6,8 @@ import smtplib
 BUY_PRICE = 27999.0
 
 # Your mail and Password
-my_email = "testudemy0511@gmail.com"
-password = "Mansoor@6677"
+my_email = "YOUR EMAIL"
+password = "EMAIL PASSWORD"
 
 # Creating Soup
 URL = "https://www.amazon.in/gp/product/B089H13XX8/ref=s9_acss_bw_cg_top_2a1_w?pf_rd_m=A1K21FY43GMZF8&pf_rd_s" \
